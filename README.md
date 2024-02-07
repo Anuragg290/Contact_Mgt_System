@@ -1,1 +1,2 @@
 # Contact_Mgt_System
+The Contact Management System presented offers a robust solution for organizing and managing contacts effectively. Throughout this presentation, we've highlighted its key features, including the ability to add, edit, and delete contacts, as well as the seamless export functionality to Excel. By leveraging HTML, CSS, and JavaScript, this system provides a user-friendly interface, enhancing productivity and communication.
